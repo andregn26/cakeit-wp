@@ -3,7 +3,6 @@ import { NavigationWrapper } from "./Navigation.styles"
 import { Link } from "gatsby"
 
 const Navigation = ({ menu }) => {
-  console.log("the one --->", menu)
 
   return (
     <NavigationWrapper>
